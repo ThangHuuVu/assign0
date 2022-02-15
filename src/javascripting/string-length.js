@@ -1,1 +1,2 @@
-// TODO: Replace this with your solution.
+const someString = 'example string'
+console.log(someString.length)
